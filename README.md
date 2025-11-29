@@ -1,6 +1,8 @@
 # standardize_glm
 Get regression standardized estimates from a glm Use standardize_glm (stdReg2) With (In) R Software
 
+https://www.youtube.com/watch?v=qDsyLNwt4gI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
